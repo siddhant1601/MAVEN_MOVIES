@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Maven Movie Database Analysis project aims to leverage SQL queries to explore and derive insights from the Maven Movie dataset. This dataset contains a comprehensive collection of information about movies, actors, customers, rentals, and more. By querying the database, various analytical questions are addressed, including actor details, customer behavior, movie attributes, and more. This project provides an opportunity to know more about SQL quries , extract valuable information, and gain insights into the Maven Movie database.
+The Maven Movie Database Analysis project aims to leverage SQL queries to explore and derive insights from the Maven Movie dataset. This dataset contains a comprehensive collection of information about movies, actors, customers, rentals, and more. By querying the database, various analytical questions are addressed, including actor details, customer behavior, movie attributes, and more. This project provides an opportunity to know more about SQL queries , extract valuable information, and gain insights into the Maven Movie database.
 
 ## Question Explored
 
@@ -39,7 +39,7 @@ The Maven Movie Database Analysis project aims to leverage SQL queries to explor
 In conclusion, the Maven Movie Database Analysis project offers a comprehensive examination of the Maven Movie dataset using SQL queries. Through the execution of various analytical tasks and inquiries, valuable insights are obtained regarding actors, customers, movies, and rental patterns. By leveraging SQL's capabilities, we were able to extract meaningful information and derive actionable insights from the dataset. This project underscores the importance and effectiveness of SQL in analyzing and understanding large datasets, contributing to informed decision-making and data-driven strategies in the realm of movie databases.
 
 ## Project Link
-[GitHub Repository]
+[GitHub Repository](https://github.com/siddhant1601/MAVEN_MOVIES/blob/main/SQL_Assignment.sql)
 
 ## Created by:
 - Siddhant Singh
